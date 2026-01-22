@@ -1,0 +1,29 @@
+Certifications
+
+Mastered core Java and DSA concepts including data structures and algorithms, improving problem-solving efficiency and code quality.
+
+Completed full-stack web development course by building multiple responsive projects using React, Node.js, and PostgreSQL, demonstrating strong integration skills in dynamic applications.
+
+Projects
+
+Product-Store (Postgres-React-Node)
+
+Developed a modern full-stack PERN e-commerce app implementing advanced security measures like rate limiting and SQL injection prevention, enhancing platform security and stability.
+
+Designed and implemented 13 DaisyUI themes and responsive Tailwind interfaces, improving UI/UX consistency and user engagement across devices.
+
+Engineered robust product management features with real-time updates and validation, ensuring accurate inventory tracking and seamless CRUD operations.
+
+KeeperApp (React-ToDoList)
+
+Built a React.js to-do app incorporating inline editing, animated checkboxes, and drag-and-drop task reordering, resulting in an intuitive and engaging user experience.
+
+Integrated light/dark theme toggling and localStorage persistence, boosting user customization and data retention across sessions.
+
+Utilized React hooks and modern CSS to ensure responsive design and real-time task statistics, improving application performance and usability.
+
+Family-Travel-Tracker (Node-Express-Database)
+
+Created a Node.js and PostgreSQL web app enabling users to mark and visualize visited countries on an interactive SVG map, enhancing user engagement with visual travel insights.
+
+Developed a responsive UI using EJS templating with seamless interactivity and data persistence, increasing usability and tracking accuracy for family travel data.
